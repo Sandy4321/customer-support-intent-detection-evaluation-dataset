@@ -6,7 +6,7 @@ Overview
 
 This dataset can be used to evaluate intent recognition models on Natural Language Understanding (NLU) platforms: LUIS, Dialogflow, Lex, RASA and any platform that accepts text as input.
 
-The dataset is parallel to our Training dataset (see Customer Service Tagged Evaluation Dataset for Intent Detection). Both datasets can be used in conjunction to first train then evaluate the accuracy provided by training. The main difference between the two datasets is the number of utterances:
+The dataset is parallel to our Training dataset (see Customer Service Tagged Training Dataset for Intent Detection). Both datasets can be used in conjunction to first train then evaluate the accuracy provided by training. The main difference between the two datasets is the number of utterances:
   - The training dataset contains about 8,000 utterances (about 300 per intent), because most platforms limit the number of utterances that can be used for training 
   - The evaluation dataset contains about 260,000 utterances (about 10,000 per intent), since there is no limit in the amount of evaluation data that can be used in any platform
 
