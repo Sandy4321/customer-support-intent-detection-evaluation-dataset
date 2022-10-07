@@ -6,66 +6,90 @@ The dataset contains annotations for all relevant linguistic phenomena that can 
 Lexical variation:
 ----------------------
 
- M - Morphological variation: inflectional and derivational
-    “is my SIM card active”
-    “is my SIM card activated”
+M - Morphological variation: inflectional and derivational
 
- L- Semantic variations: synonyms, use of hyphens, compounding…
-    “what’s my billing date
-    “what’s my anniversary date”
+    “is my SIM card active”
+
+    “is my SIM card activated”
+
+L - Semantic variations: synonyms, use of hyphens, compounding…
+
+    “what’s my billing date"
+
+    “what’s my anniversary date”
 
 Syntactic structure variation:
 ----------------------
 
- Basic syntactic structure:
-    “activate my SIM card”
-    “I need to activate my SIM card”
+B - Basic syntactic structure:
 
- I - Interrogative structure
-    “can you activate my SIM card”
-    “how do I activate my SIM card”
+    “activate my SIM card”
 
- Coordinated syntactic structure
-    “I have a new SIM card, what do I need to do to activate it?”
+    “I need to activate my SIM card”
 
- Indirect speech
-    “ask my agent to activate my SIM card”
+I - Interrogative structure
+
+    “can you activate my SIM card”
+
+    “how do I activate my SIM card”
+
+C- Coordinated syntactic structure
+
+     “I have a new SIM card, what do I need to do to activate it?”
+
+D - Indirect speech
+
+     “ask my agent to activate my SIM card”
 
 Language register variations:
 ----------------------
 
- P- Politeness variation
-    “could you help me activate my SIM card, please?”
+P - Politeness variation
 
- Q - Colloquial variation
-    “can u activ8 my SIM?”
+    “could you help me activate my SIM card, please?”
 
- Respect structures - Language-dependent variations
-    English: may vs. can…
-    French: tu vs. vous...
-    Spanish: tú vs. usted...
+Q - Colloquial variation
 
- W- Offensive language
-    “I want to talk to a f*cking agent”
+    “can u activ8 my SIM?”
+
+R - Respect structures - Language-dependent variations
+
+    English: "may" vs "can…"
+
+    French: "tu" vs "vous..."
+
+    Spanish: "tú" vs "usted..."
+
+W - Offensive language
+
+    “I want to talk to a f*cking agent”
 
 Stylistic variations:
 ----------------------
 
- K- Keyword mode
-    activate SIM
-    new SIM
+K - Keyword mode
 
- E- Use of abbreviations:
-    “I’m / I am interested in getting a new SIM”
+    "activate SIM"
 
- Z- Errors and Typos: spelling issues, wrong punctuation…
-    “how can i activaet my card”
+    "new SIM"
 
- Regional variations
-    US English vs UK English: truck vs. lorry
+E - Use of abbreviations:
 
- France French vs Canadian French: tchatter vs. clavarder
-    Code switching
-    “activer ma SIM card”
+    “I'm / I am interested in getting a new SIM”
+
+Z - Errors and Typos: spelling issues, wrong punctuation…
+
+    “how can i activaet my card”
+
+G - Regional variations
+
+    US English vs UK English: "truck" vs "lorry"
+
+    France French vs Canadian French: "tchatter" vs "clavarder"
+
+Y - Code switching
+
+    “activer ma SIM card”
+
 
 (c) Bitext Innovations, 2022
